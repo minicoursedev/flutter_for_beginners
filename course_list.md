@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |0_0|課程介紹|course_intro||
 |0_1|什麼是 Flutter? |what_is_flutter_and_dart|[理解邏輯](https://dartpad.dev?id=5dd299992aa3a669198fdfa4a08a58f1)||
-|0_2|規劃自己的 App|app_sitemap|[App SiteMap](https://)<br >[資料結構規劃](https://)||
+|0_2|規劃自己的 App|app_sitemap|[App SiteMap](homework/0/app_sitemap.md)<br >[資料結構規劃](homework/0/data_structure.md)||
 
 ## Dart 入門
 
